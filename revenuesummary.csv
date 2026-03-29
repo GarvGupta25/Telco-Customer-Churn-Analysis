@@ -1,0 +1,4 @@
+contract_type,total_customers,churned_count,churn_rate_pct,total_mrr,mrr_lost,avg_charge
+Month-to-month,3875,1655,42.71,257294.15,120847.10,66.40
+"One year",1473,166,11.27,95816.60,14118.45,65.05
+"Two year",1695,48,2.83,103005.85,4165.30,60.77

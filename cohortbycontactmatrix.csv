@@ -1,0 +1,13 @@
+tenure_cohort,contract_type,total_customers,churned_count,churn_rate_pct
+"1. 0-12m",Month-to-month,1994,1024,51.35
+"1. 0-12m","One year",124,13,10.48
+"1. 0-12m","Two year",68,0,0.00
+"2. 13-24m",Month-to-month,737,278,37.72
+"2. 13-24m","One year",197,16,8.12
+"2. 13-24m","Two year",90,0,0.00
+"3. 25-48m",Month-to-month,802,264,32.92
+"3. 25-48m","One year",518,55,10.62
+"3. 25-48m","Two year",274,6,2.19
+"4. 49m+",Month-to-month,342,89,26.02
+"4. 49m+","One year",634,82,12.93
+"4. 49m+","Two year",1263,42,3.33
